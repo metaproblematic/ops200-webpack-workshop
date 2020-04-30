@@ -27,7 +27,7 @@
     "chai": "^3.5.0",
     "debug": "^2.6.9",
     "express": "^4.17.1",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "json-loader": "^0.5.4",
     "lodash": "^4.17.15",
     "lodash-webpack-plugin": "^0.10.2",
